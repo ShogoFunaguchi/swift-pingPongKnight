@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0F891951636E1FC17BBA74758C71BACABD830B73",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0F891951636E1FC17BBA74758C71BACABD830B73" : 9223372036854775807,
+    "605A2A053AA3988FF06CFE1B704AF7301B8625D2" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A6F37A31-7BED-4002-8506-97D38EA115BA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0F891951636E1FC17BBA74758C71BACABD830B73" : "pingpongKnight\/",
+    "605A2A053AA3988FF06CFE1B704AF7301B8625D2" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PingPongKnight",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PingPongKnight\/PingPongKnight.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShogoFunaguchi\/swift-pingPongKnight.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0F891951636E1FC17BBA74758C71BACABD830B73"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShogoFunaguchi\/learn-swift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "605A2A053AA3988FF06CFE1B704AF7301B8625D2"
+    }
+  ]
+}
